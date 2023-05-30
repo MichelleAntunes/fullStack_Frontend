@@ -8,7 +8,13 @@ O front-end é uma aplicação React.Js, criada usando Vite, onde o usuário pod
 
 ## Link de Acesso
 
-- Labeddit-Backend: [Clique aqui!](https://github.com/MichelleAntunes/fullStackProject.git)
+[Labeddit-Backend Repositório](https://github.com/MichelleAntunes/fullStackProject.git)
+
+[Link Documentação Back-End](https://documenter.getpostman.com/view/25825355/2s93m8z19F)
+
+[Link Front-End Deploy](https://full-stack-frontend-pi.vercel.app/)
+
+
 
 ### Instalação
 
